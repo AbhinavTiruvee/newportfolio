@@ -9,7 +9,7 @@ const about = {
   name: 'Abhinav Tiruveedhula',
   role: 'Software Developer',
   description:
-    'Adipisicing sit fugit ullam unde aliquid sequi Facilis soluta facilis perspiciatis corporis nulla aspernatur. Autem eligendi rerum delectus modi quisquam? Illo ut quasi nemo ipsa cumque perspiciatis! Maiores minima consectetur.',
+    'I am a Computer Science major currently enrolled at the University of Texas at Austin, driven by a strong passion for software development. With two previous internships under my belt, I am eagerly seeking an internship opportunity for the summer of 2024. If you have a role that aligns with my skill set, please get in touch with me.',
   resume: 'https://drive.google.com/file/d/1HvshCj_ZCDxs9Es004-nslM4UhWsVS-6/view?usp=sharing',
   social: {
     linkedin: 'https://www.linkedin.com/in/abhinav-tiruveedhula/',
@@ -21,25 +21,25 @@ const projects = [
   // projects can be added an removed
   // if there are no projects, Projects section won't show up
   {
-    name: 'Project 1',
+    name: 'Impact of Online Stock Recommendations',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
+      'Research and research report on validity of online stock recommendations before 2017',
+    stack: ['R', 'Python', 'Excel'],
+    sourceCode: 'https://github.com/AbhinavTiruvee/OnlineStockRecommendations',
   },
   {
-    name: 'Project 2',
+    name: 'Valorant Statistics using APIs',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
+      'From a given Valorant player\'s username, advanced metrics are given using the Valorant API',
+    stack: ['Python'],
+    sourceCode: 'https://github.com/AbhinavTiruvee/ValorantStats',
   },
   {
-    name: 'Project 3',
+    name: 'Personal Portfolio Website',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
+      'Made a website that provides information about my software development background',
+    stack: ['HTML', 'CSS', 'JavaScript'],
+    sourceCode: 'https://github.com/AbhinavTiruvee/newportfolio',
   },
 ]
 
@@ -48,15 +48,16 @@ const skills = [
   // if there are no skills, Skills section won't show up
   'Python',
   'Java',
-  'Django',
   'R',
   'SQL',
   'JavaScript',
-  'Docker',
-  'Git',
-  'Postman',
   'React',
+  'Django',
+  'Excel',
   'AWS',
+  'Docker',
+  'Postman',
+  'Git',
 ]
 
 const contact = {
