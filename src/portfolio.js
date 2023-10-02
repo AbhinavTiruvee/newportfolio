@@ -1,7 +1,7 @@
 const header = {
   // all the properties are optional - can be left empty or deleted
   homepage: 'https://AbhinavTiruvee.github.io',
-  title: 'AT.',
+  title: 'AT',
 }
 
 const about = {
