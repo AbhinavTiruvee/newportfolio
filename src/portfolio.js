@@ -38,7 +38,7 @@ const projects = [
     name: 'Personal Portfolio Website',
     description:
       'Made a website that provides information about my software development background',
-    stack: ['HTML', 'CSS', 'JavaScript'],
+    stack: ['HTML', 'CSS', 'JavaScript', 'React'],
     sourceCode: 'https://github.com/AbhinavTiruvee/newportfolio',
   },
 ]
