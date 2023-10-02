@@ -1,4 +1,4 @@
 # Portfolio
 
 My personal portfolio
-Built with JavaScript, HTML, and CSS
+Built with JavaScript, React, HTML, and CSS
