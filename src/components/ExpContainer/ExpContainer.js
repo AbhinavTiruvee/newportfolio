@@ -6,6 +6,8 @@ import './ExpContainer.css'
 const ExpContainer = ({ exp }) => (
   <div className='exp'>
     <h3>{exp.name}</h3>
+    <h4>{exp.position}</h4>
+    <h6>{exp.dates}</h6>
     <p className='exp__description'>{exp.description}</p>
     {exp.stack && (
       <ul className='exp__stack'>

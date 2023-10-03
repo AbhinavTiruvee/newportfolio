@@ -1,7 +1,7 @@
 const header = {
   // all the properties are optional - can be left empty or deleted
   homepage: 'https://AbhinavTiruvee.github.io',
-  title: 'AT.',
+  title: 'AT',
 }
 
 const about = {
@@ -48,14 +48,14 @@ const exps = [
     name: 'Tecmend',
     position: 'Full Stack Development Intern',
     dates: 'Jan 2023 - May 2023',
-    description: 'Utilized skills to add to three data integration web applications over 6 months',
+    description: 'Utilized skills in Python and Django to add to three projects\'s backends over the course of the internship. Gained project-based experience in web applications, APIs, and databases',
     stack: ['Python', 'Django', 'React', 'JavaScript'],
   },
   {
     name: 'Springworks',
     position: 'Sofware Development Engineering Intern',
     dates: 'May 2022 - August 2022',
-    description: 'Contributed to six machine learning projects, culminating in the creation of a OCR program',
+    description: 'Contributed to six machine learning projects, culminating in the creation of a OCR program. Gained valuable experience in project management, teamwork, and agile development methodologies',
     stack: ['Python', 'AWS', 'Docker', 'Postman'],
   },
 ]
