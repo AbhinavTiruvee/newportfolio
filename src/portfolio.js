@@ -49,14 +49,14 @@ const exps = [
     position: 'Full Stack Development Intern',
     dates: 'Jan 2023 - May 2023',
     description: 'Utilized skills to add to three data integration web applications over 6 months',
-    stack: ['Python', 'Django', 'React', 'JavaScript']
+    stack: ['Python', 'Django', 'React', 'JavaScript'],
   },
   {
     name: 'Springworks',
     position: 'Sofware Development Engineering Intern',
     dates: 'May 2022 - August 2022',
     description: 'Contributed to six machine learning projects, culminating in the creation of a OCR program',
-    stack: ['Python', 'AWS', 'Docker', 'Postman']
+    stack: ['Python', 'AWS', 'Docker', 'Postman'],
   },
 ]
 
