@@ -21,7 +21,7 @@ const ExpContainer = ({ exp }) => (
 
     {exp.sourceCode && (
       <a
-        href={exp.sourceCode}
+        href={exp.sourceCode} target="_blank" rel="noopener noreferrer"
         aria-label='source code'
         className='link link--icon'
       >
@@ -31,7 +31,7 @@ const ExpContainer = ({ exp }) => (
 
     {exp.livePreview && (
       <a
-        href={exp.livePreview}
+        href={exp.livePreview} target="_blank" rel="noopener noreferrer"
         aria-label='live preview'
         className='link link--icon'
       >

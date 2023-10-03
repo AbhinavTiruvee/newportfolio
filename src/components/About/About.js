@@ -19,7 +19,7 @@ const About = () => {
 
       <div className='about__contact center'>
         {resume && (
-          <a href={resume}>
+          <a href={resume} target="_blank" rel="noopener noreferrer">
             <span type='button' className='btn btn--outline'>
               Resume
             </span>
@@ -30,7 +30,7 @@ const About = () => {
           <>
             {social.github && (
               <a
-                href={social.github}
+                href={social.github} target="_blank" rel="noopener noreferrer"
                 aria-label='github'
                 className='link link--icon'
               >
@@ -40,7 +40,7 @@ const About = () => {
 
             {social.linkedin && (
               <a
-                href={social.linkedin}
+                href={social.linkedin} target="_blank" rel="noopener noreferrer"
                 aria-label='linkedin'
                 className='link link--icon'
               >
