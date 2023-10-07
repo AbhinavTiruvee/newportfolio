@@ -28,6 +28,18 @@ const projects = [
     sourceCode: 'https://github.com/AbhinavTiruvee/OnlineStockRecommendations',
   },
   {
+    name: 'UT Dining: Campus Dining Assistant',
+    description: 'Developed an app in a three person team that displays UT Austin dining hall menus',
+    stack: ['Flutter', 'Python'],
+    livePreview: 'https://apps.apple.com/us/app/ut-dining/id6468611223',
+  },
+  {
+    name: 'Personal Portfolio Website',
+    description: 'Made a website that provides information about my software development background',
+    stack: ['HTML', 'CSS', 'JavaScript', 'React'],
+    sourceCode: 'https://github.com/AbhinavTiruvee/newportfolio',
+  },
+  {
     name: 'Valorant Statistics using APIs',
     description:
       'From a given Valorant player\'s username, advanced metrics are given using the Valorant API',
@@ -35,12 +47,16 @@ const projects = [
     sourceCode: 'https://github.com/AbhinavTiruvee/ValorantStats',
   },
   {
-    name: 'Personal Portfolio Website',
-    description:
-      'Made a website that provides information about my software development background',
-    stack: ['HTML', 'CSS', 'JavaScript', 'React'],
-    sourceCode: 'https://github.com/AbhinavTiruvee/newportfolio',
+    name: 'Dots & Boxes using Networking',
+    description: 'Dots & Boxes game that two players can play across a network connection',
+    stack: ['Java'],
+    sourceCode: 'https://github.com/AbhinavTiruvee/DotsAndBoxes'
   },
+  {
+    name: 'Sports Betting ML Model',
+    description: 'Developing a machine learning model aimed at providing sports betting recommendations',
+    stack: ['Python']
+  }
 ]
 
 const exps = [

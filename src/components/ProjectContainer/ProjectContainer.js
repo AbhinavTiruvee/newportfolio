@@ -30,7 +30,7 @@ const ProjectContainer = ({ project }) => (
 
     {project.livePreview && (
       <a
-        href={project.livePreview}
+        href={project.livePreview}  target="_blank" rel="noopener noreferrer"
         aria-label='live preview'
         className='link link--icon'
       >
