@@ -30,7 +30,7 @@ const projects = [
   {
     name: 'UT Dining: Campus Dining Assistant',
     description: 'Developed an app in a three person team that displays UT Austin dining hall menus',
-    stack: ['Flutter', 'Python'],
+    stack: ['Swift', 'Python'],
     livePreview: 'https://apps.apple.com/us/app/ut-dining/id6468611223',
   },
   {
