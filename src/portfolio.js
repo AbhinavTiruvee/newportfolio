@@ -30,7 +30,7 @@ const projects = [
   {
     name: 'UT Dining: Campus Dining Assistant',
     description: 'Developed an app in a three person team that displays UT Austin dining hall menus',
-    stack: ['Swift', 'Python'],
+    stack: ['Swift', 'Python', 'SQL'],
     livePreview: 'https://apps.apple.com/us/app/ut-dining/id6468611223',
   },
   {
@@ -53,9 +53,10 @@ const projects = [
     sourceCode: 'https://github.com/AbhinavTiruvee/DotsAndBoxes'
   },
   {
-    name: 'Sports Betting ML Model',
-    description: 'Developing a machine learning model aimed at providing sports betting recommendations',
-    stack: ['Python']
+    name: 'NFL Betting Guidance Program',
+    description: 'Developed a project that uses APIs and a web scraper to compute best NFL bets',
+    stack: ['Python'],
+    sourceCode: 'https://github.com/AbhinavTiruvee/NFLBetHelper'
   }
 ]
 
