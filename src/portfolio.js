@@ -10,7 +10,7 @@ const about = {
   role: 'Software Developer',
   description:
     'I am a Computer Science major currently enrolled at the University of Texas at Austin, driven by a strong passion for software development. With two previous internships completed, I am eagerly seeking an internship opportunity for the summer of 2024. If you have a role that aligns with my skill set, please get in touch with me.',
-  resume: 'https://drive.google.com/file/d/1HvshCj_ZCDxs9Es004-nslM4UhWsVS-6/view?usp=sharing',
+  resume: 'https://drive.google.com/file/d/14-wHEKY9Ycu_M-iarIB8HMZLoNPiJjgn/view?usp=sharing',
   social: {
     linkedin: 'https://www.linkedin.com/in/abhinav-tiruveedhula/',
     github: 'https://github.com/AbhinavTiruvee',
